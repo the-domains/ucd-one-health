@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-15T07:18:09.953Z'
+datePublished: '2016-05-15T07:18:56.318Z'
 sourcePath: _posts/2016-04-15-google-may-have-found-a-way-to-make-the-real-world-web-work.md
 inFeed: true
 isBasedOnUrl: 'http://www.wired.com/2016/04/google-beacon-security-eddystone/'
@@ -20,7 +20,7 @@ author:
   - name: Brian Barrett
     url: 'http://www.wired.com/author/brianrbarrett/'
     avatar: {}
-dateModified: '2016-05-15T07:18:09.425Z'
+dateModified: '2016-05-15T07:18:55.948Z'
 title: Google May Have Found a Way to Make the Real-World Web Work
 app_links: []
 publisher:
