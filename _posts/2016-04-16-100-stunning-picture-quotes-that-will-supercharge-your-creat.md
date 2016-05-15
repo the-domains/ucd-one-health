@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-15T07:18:09.900Z'
+datePublished: '2016-05-15T07:18:56.287Z'
 sourcePath: _posts/2016-04-16-100-stunning-picture-quotes-that-will-supercharge-your-creat.md
 inFeed: true
 isBasedOnUrl: 'https://designschool.canva.com/blog/picture-quotes/'
@@ -17,7 +17,7 @@ keywords:
   - text
 related: []
 author: []
-dateModified: '2016-05-15T07:18:09.311Z'
+dateModified: '2016-05-15T07:18:55.935Z'
 title: 100 Stunning Picture Quotes That Will Supercharge Your Creativity
 app_links: []
 publisher:
