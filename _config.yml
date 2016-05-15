@@ -6,9 +6,9 @@ color:
   saturation: 0.1109366281889379
   rhythmicContrast: 0.28774489369243383
   brandColors:
-    - '#88A825'
-    - '#35203B'
-    - '#911146'
-    - '#CF4A30'
-    - '#ED8C2B'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: 'UCD One Health '
