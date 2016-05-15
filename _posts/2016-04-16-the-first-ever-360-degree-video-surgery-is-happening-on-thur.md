@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-15T07:18:09.933Z'
+datePublished: '2016-05-15T07:18:56.347Z'
 sourcePath: _posts/2016-04-16-the-first-ever-360-degree-video-surgery-is-happening-on-thur.md
 inFeed: true
 isBasedOnUrl: 'http://www.buzzfeed.com/stephaniemlee/the-first-ever-360-degree-video-surgery-is-happening-on-thur#.rr1LK2rYZ'
@@ -17,7 +17,7 @@ keywords:
   - google
 related: []
 author: []
-dateModified: '2016-05-15T07:18:09.372Z'
+dateModified: '2016-05-15T07:18:55.951Z'
 title: The First-Ever 360-Degree Video Surgery Is Happening On Thursday
 app_links:
   - url: 'buzzfeed://buzz/stephaniemlee/the-first-ever-360-degree-video-surgery-is-happening-on-thur'
