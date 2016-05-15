@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[UCD One Health ]]></title>
         <description><![CDATA[UCD One Health ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ucd-one-health/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sun, 15 May 2016 07:18:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/ucd-one-health/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The First-Ever 360-Degree Video Surgery Is Happening On Thursday]]></title>
+            <description><![CDATA[<article><h1>The First-Ever 360-Degree Video Surgery Is Happening On Thursday</h1><p>Over the course of two hours or so on Thursday, Dr. Shafi Ahmed will perform a more-or-less routine surgery on a man in his seventies with colon cancer. The 47-year-old cancer specialist will make a small slice on the patient's belly, remove the tumor from his bowel, and stitch the tissue back together.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2236279d263b94ba2ebd6fadb2339821d0b2915.jpg"></article>]]></description>
+            <link>http://www.buzzfeed.com/stephaniemlee/the-first-ever-360-degree-video-surgery-is-happening-on-thur#.rr1LK2rYZ</link>
+            <guid isPermaLink="false">03e944cb-8050-4a03-82f6-64e1b1b0ca72</guid>
+            <pubDate>Sun, 15 May 2016 07:18:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[100 Stunning Picture Quotes That Will Supercharge Your Creativity]]></title>
             <description><![CDATA[<article><h1>100 Stunning Picture Quotes That Will Supercharge Your Creativity</h1><p>Find your next favorite quote rendered in stunning graphic design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab8424258c57e49e23b68199e2e806598a1edf6e.png"></article>]]></description>
