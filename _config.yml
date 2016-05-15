@@ -1,0 +1,14 @@
+layout_spectrum: 0.7690663570538163
+typography_spectrum: 0.22417758591473103
+color:
+  brandStrength: 0.9402548056095839
+  lightness: 0.7075421889312565
+  saturation: 0.1109366281889379
+  rhythmicContrast: 0.28774489369243383
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 'UCD One Health '
