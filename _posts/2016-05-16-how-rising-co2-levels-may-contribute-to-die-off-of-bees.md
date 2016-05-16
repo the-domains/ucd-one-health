@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://e360.yale.edu/feature/bee_collapse_co2_climate_change_agriculture/2991'
 title: How Rising CO2 Levels May Contribute to Die-Off of Bees
-datePublished: '2016-05-16T21:35:21.480Z'
-dateModified: '2016-05-16T21:35:21.407Z'
+datePublished: '2016-05-16T21:36:10.128Z'
+dateModified: '2016-05-16T21:36:10.005Z'
 starred: false
 sourcePath: _posts/2016-05-16-how-rising-co2-levels-may-contribute-to-die-off-of-bees.md
 inFeed: true
