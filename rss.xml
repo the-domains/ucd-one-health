@@ -4,8 +4,15 @@
         <description><![CDATA[University College Dublin One Health Society]]></description>
         <link>https://thegrid.ai/ucdonehealth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 06:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 07:25:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ucdonehealth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[These Students Built A Glove That Translates Sign Language Into English]]></title>
+            <description><![CDATA[<article><h1>These Students Built A Glove That Translates Sign Language Into English</h1><p>A pair of undergraduates at the University of Washington made a glove that translates gestures in American Sign Language (ASL) into English and speaks it via speakers. The SignAloud glove won them a $10,000 Lemelson-MIT Student Prize and international attention.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/660a2af9d38a347355d0385d8c4903cccf572fc8.jpg"></article>]]></description>
+            <link>http://www.fastcompany.com/3059616/these-students-built-a-glove-that-translates-sign-language-into-english</link>
+            <guid isPermaLink="false">034dcb9f-409a-416d-b2a9-0e18ace02c65</guid>
+            <pubDate>Tue, 17 May 2016 07:25:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Barbara Natterson-Horowitz: What veterinarians know that physicians don't]]></title>
             <link>https://www.ted.com/talks/barbara_natterson_horowitz_what_veterinarians_know_that_doctors_don_t?language=en</link>
@@ -66,13 +73,6 @@
             <link>https://www.youtube.com/watch?v=uodJ1-cgAW4</link>
             <guid isPermaLink="false">c4d7cefd-8d35-4c5b-9c14-779e6846b191</guid>
             <pubDate>Tue, 17 May 2016 06:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overpopulation, overconsumption - in pictures]]></title>
-            <description><![CDATA[<article><h1>Overpopulation, overconsumption - in pictures</h1><p>How do you raise awareness about population explosion? One group thought that the simplest way would be to show people</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eab6346988d6cde9a41ea92b08a94cea04d44a89.jpg"></article>]]></description>
-            <link>http://www.theguardian.com/global-development-professionals-network/gallery/2015/apr/01/over-population-over-consumption-in-pictures</link>
-            <guid isPermaLink="false">ee889371-b8e1-4e1d-b2b3-77a795364657</guid>
-            <pubDate>Tue, 17 May 2016 06:31:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
