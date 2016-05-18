@@ -1,4 +1,3 @@
-layout_spectrum: 0.7690663570538163
 typography_spectrum: 0.22417758591473103
 color:
   brandStrength: 0.9402548056095839
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.7690663570538163
 name: 'UCD One Health '
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/18069bb0-b4e1-4112-b23e-5b4aa2be60a5.jpg'
 title: Bringing together different disciplines for the overall better healthcare for animals and humans.
