@@ -22,10 +22,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.aaha.org/blog/NewStat/post/2015/05/06/900831/Next-generation-of-artificial-intelligence-for-veterinarians-showcased.aspx'
 title: Next generation of artificial intelligence for veterinarians showcased
-datePublished: '2016-05-17T06:51:59.836Z'
-dateModified: '2016-05-17T06:51:59.733Z'
-starred: false
+datePublished: '2016-05-19T12:59:10.433Z'
+dateModified: '2016-05-19T12:59:10.251Z'
 sourcePath: _posts/2016-05-17-next-generation-of-artificial-intelligence-for-veterinarians.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
