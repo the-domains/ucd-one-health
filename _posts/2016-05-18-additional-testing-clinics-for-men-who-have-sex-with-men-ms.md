@@ -1,18 +1,18 @@
 ---
 description: 'Resources:'
-dateModified: '2016-05-18T23:54:24.580Z'
-datePublished: '2016-05-18T23:54:24.869Z'
+dateModified: '2016-05-19T12:59:28.680Z'
+datePublished: '2016-05-19T12:59:29.280Z'
 title: 'Additional Testing Clinics for Men who have sex with men (MSM):'
 author: []
-starred: false
 sourcePath: _posts/2016-05-18-additional-testing-clinics-for-men-who-have-sex-with-men-ms.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-<article style=""><h1>Where to Get Free STI Testing</h1><p>Being a student it can be tough to justify paying money on anything, and sometimes we put off getting tested because of cost. However, sexual health is important, and unprotected sex (sex without a condom) does carry its risks (see our guide on where to get free condoms), in particular but certainly not limited tomen who have sex with men (MSM). In this guide we'll go through some of the places that anybody can go to for FREE STI testing, and some extra places exclusively for MSM.</p></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c046a5d-ba64-4149-8045-252e6355d60b.png" /><h1>Where to Get Free STI Testing</h1><p>Being a student it can be tough to justify paying money on anything, and sometimes we put off getting tested because of cost. However, sexual health is important, and unprotected sex (sex without a condom) does carry its risks (see our guide on where to get free condoms), in particular but certainly not limited tomen who have sex with men (MSM). In this guide we'll go through some of the places that anybody can go to for FREE STI testing, and some extra places exclusively for MSM.</p></article>
 
 Resources:
 
