@@ -1,11 +1,11 @@
 ---
 description: A look at some of the events we had in April for One Health Week
-dateModified: '2016-05-19T12:57:58.837Z'
-datePublished: '2016-05-19T12:57:58.937Z'
+dateModified: '2016-05-19T12:59:20.258Z'
+datePublished: '2016-05-19T12:59:20.865Z'
 title: 'One Health Week 2016!'
 author: []
-starred: false
 sourcePath: _posts/2016-05-19-one-health-week-2016.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
