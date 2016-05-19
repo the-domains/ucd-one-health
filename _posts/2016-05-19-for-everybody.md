@@ -1,11 +1,11 @@
 ---
 description: Where can I get free condoms?
-dateModified: '2016-05-19T12:59:24.432Z'
-datePublished: '2016-05-19T12:59:24.674Z'
+dateModified: '2016-05-19T12:59:38.155Z'
+datePublished: '2016-05-19T12:59:38.353Z'
 title: 'For Everybody:'
 author: []
 sourcePath: _posts/2016-05-19-for-everybody.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
