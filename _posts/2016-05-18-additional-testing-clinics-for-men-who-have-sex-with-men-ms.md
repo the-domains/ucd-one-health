@@ -1,11 +1,11 @@
 ---
 description: 'Resources:'
-dateModified: '2016-05-19T12:59:28.680Z'
-datePublished: '2016-05-19T12:59:29.280Z'
+dateModified: '2016-05-19T12:59:36.971Z'
+datePublished: '2016-05-19T12:59:37.317Z'
 title: 'Additional Testing Clinics for Men who have sex with men (MSM):'
 author: []
 sourcePath: _posts/2016-05-18-additional-testing-clinics-for-men-who-have-sex-with-men-ms.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
