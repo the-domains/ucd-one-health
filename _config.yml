@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.1109366281889379
-  brandStrength: 0.9402548056095839
-  rhythmicContrast: 0.2877448936924338
+  brandStrength: 0.2886070846579969
+  lightness: 0.6327629301231354
+  saturation: 0.588305207900703
+  rhythmicContrast: 0.2701726513914764
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  lightness: 0.7075421889312565
-typography_spectrum: 0.224177585914731
-layout_spectrum: 0.2900506
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+typography_spectrum: 0.3248044503852725
+layout_spectrum: 0.6184244237374514
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/18069bb0-b4e1-4112-b23e-5b4aa2be60a5.jpg'
