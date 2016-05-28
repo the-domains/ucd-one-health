@@ -1,5 +1,18 @@
-title: Bringing together different disciplines for the overall better healthcare for animals and humans.
+typography_spectrum: 0.3248044503852725
+color:
+  brandStrength: 0.2886070846579969
+  lightness: 0.6327629301231354
+  saturation: 0.588305207900703
+  rhythmicContrast: 0.2701726513914764
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.6184244237374514
 name: 'UCD One Health '
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/18069bb0-b4e1-4112-b23e-5b4aa2be60a5.jpg'
 collections:
   - index:
       path: /
@@ -12,17 +25,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  brandStrength: 0.2886070846579969
-  lightness: 0.6327629301231354
-  saturation: 0.588305207900703
-  rhythmicContrast: 0.2701726513914764
-  brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-typography_spectrum: 0.3248044503852725
-layout_spectrum: 0.6184244237374514
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/18069bb0-b4e1-4112-b23e-5b4aa2be60a5.jpg'
+title: Bringing together human and veterinary medicine and their interplay with the environment for better health outcomes
