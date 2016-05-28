@@ -1,7 +1,7 @@
 ---
 description: "Our Flagship event of the year, we've done a quick recap of the events we had for One Health Week last year."
-dateModified: '2016-05-28T17:52:05.650Z'
-datePublished: '2016-05-28T17:52:21.417Z'
+dateModified: '2016-05-28T18:16:52.237Z'
+datePublished: '2016-05-28T18:17:01.563Z'
 title: 'One Health Week 2016!'
 author: []
 sourcePath: _posts/2016-05-19-one-health-week-2016.md
@@ -54,8 +54,16 @@ This again was very fun and interactive, and we got to see lots of the similarit
 
 **Our last event of the week was held on April 14th, and this was on the Rabies eradication program of Worldwide Veterinary Services by James Florence (Managing Director of WVS).**
 
-> **![Rabies.jpg](https://lh6.googleusercontent.com/ysGye-WyOYGlLxKVKVCA_Ltd0r4oQ8WjCMoxuTSmJt4K_jyK5D0l8IlGyGOg7pFR6NyfWUnvbjRqWlRC0_BlXVl0Vw6E1gMvDHGjEYWekscBXpXohKyMX5y_Mi4mu8NU4qu554C6)**
-
 James Florence joined Worldwide Veterinary Service at the beginning of 2010, after spending 8 years in Africa working on a number of different wildlife conservation projects. He established Zambia's only elephant orphanage and rehabilitation centre. At WVS, he oversees all aspects of the charity's day-to-day operations, while generating long-term strategies and plans for the growth of the organisation.
 
 This was a very popular event, as Rabies is a very serious condition both for humans and animals, and as the speaker was part of an organization many veterinary students in the College volunteer with. There was much to be learned from both the medical and veterinary perspective, particularly when it came to the epidemiology of the disease and how the organization was using new and innovative techniques such as GPS tracking on mobile devices to monitor their surveillance.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b95f6e92d124f54a9fb390c47a68b993fe2906a3.png)
+
+We also held a debate on AntiMicrobial Resistance during the week.
+
+"This House holds that the irresponsible use of anti-microbials in veterinary medicine has been a major element in the development of anti-microbial resistance in pathogens of man."  
+This Debate is very relavent to all disciplines under the One Health Umbrella. So we have invited a few professionals who have experience with this topic and one of them is the Dean of the Veterinary School. It should be interesting and funny with questions from the audience and other professors! There will be coffee/tea before and refreshments after!   
+Professor Seamus Fanning, Graduated as a Biochemist and completed his PhD in Molecular Microbiology. He is a Professor of Food Safety and Zoonoses and the Director of the UCD Centre for Food Safety.  
+Dr. James Gibbons, graduated with a Bachelor of Veterinary Medicine at UCD, and completed his PhD in Veterinary Microbiology. He is a lecturer in the UCD Veterinary Public Health Department.  
+Professor Grace Mulcahy, graduated with a Bachelor of Veterinary Medicine at UCD, and completed a PhD following her studies. She is the Dean of the School of Veterinary Medicine and Professor of Veterinary Microbiology and Parasitology.  
+Dr. Paul Whyte, Graduated with a BSc in Industrial Microbiology and completed his Masters in Food Science. He is now a Senior Lecturer in Veterinary Public Health and Food Safety in UCD, and a member of the Centre for Food Safety and the Institute of Food and Health in UCD.
