@@ -1,7 +1,7 @@
 ---
 description: "Our Flagship event of the year, we've done a quick recap of the events we had for One Health Week last year."
-dateModified: '2016-05-28T17:47:20.639Z'
-datePublished: '2016-05-28T17:47:29.466Z'
+dateModified: '2016-05-28T17:52:05.650Z'
+datePublished: '2016-05-28T17:52:21.417Z'
 title: 'One Health Week 2016!'
 author: []
 sourcePath: _posts/2016-05-19-one-health-week-2016.md
@@ -54,7 +54,7 @@ This again was very fun and interactive, and we got to see lots of the similarit
 
 **Our last event of the week was held on April 14th, and this was on the Rabies eradication program of Worldwide Veterinary Services by James Florence (Managing Director of WVS).**
 
-**![Rabies.jpg](https://lh6.googleusercontent.com/ysGye-WyOYGlLxKVKVCA_Ltd0r4oQ8WjCMoxuTSmJt4K_jyK5D0l8IlGyGOg7pFR6NyfWUnvbjRqWlRC0_BlXVl0Vw6E1gMvDHGjEYWekscBXpXohKyMX5y_Mi4mu8NU4qu554C6)**
+> **![Rabies.jpg](https://lh6.googleusercontent.com/ysGye-WyOYGlLxKVKVCA_Ltd0r4oQ8WjCMoxuTSmJt4K_jyK5D0l8IlGyGOg7pFR6NyfWUnvbjRqWlRC0_BlXVl0Vw6E1gMvDHGjEYWekscBXpXohKyMX5y_Mi4mu8NU4qu554C6)**
 
 James Florence joined Worldwide Veterinary Service at the beginning of 2010, after spending 8 years in Africa working on a number of different wildlife conservation projects. He established Zambia's only elephant orphanage and rehabilitation centre. At WVS, he oversees all aspects of the charity's day-to-day operations, while generating long-term strategies and plans for the growth of the organisation.
 
