@@ -1,8 +1,20 @@
-typography_spectrum: 0.3248044503852725
+title: Bringing together Human and Veterinary medicine and their interplay with the environment for better health outcomes
+name: 'UCD One Health '
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  brandStrength: 0.2886070846579969
-  lightness: 0.6327629301231354
   saturation: 0.588305207900703
+  brandStrength: 0.2886070846579969
   rhythmicContrast: 0.2701726513914764
   brandColors:
     - '#E6E2AF'
@@ -10,19 +22,7 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
-layout_spectrum: 0.6184244237374514
-name: 'UCD One Health '
+  lightness: 0.6327629301231354
+typography_spectrum: 0.3248044503852725
+layout_spectrum: 1
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/18069bb0-b4e1-4112-b23e-5b4aa2be60a5.jpg'
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Bringing together Human and Veterinary medicine and their interplay with the environment for better health outcomes
