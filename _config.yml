@@ -11,11 +11,15 @@ color:
     - '#002F2F'
   lightness: 0.6327629301231354
 layout_spectrum: 1
-name: 'UCD One Health '
+name: University College Dublin One Health Society
 navigation:
   - id: 04934548-b478-44f9-bfc7-7ae61e03e030
     url: 2016-05-20-contact-us.html
     name: Contact Us
+    type: content
+  - id: 4ab32f9f-44e1-478e-ae1d-dd543361848a
+    url: 2016-05-16-about-us.html
+    name: About Us
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/18069bb0-b4e1-4112-b23e-5b4aa2be60a5.jpg
