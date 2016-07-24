@@ -1,16 +1,16 @@
-typography_spectrum: 0.153457
+typography_spectrum: 0.8015124124940485
 color:
-  saturation: 0.588305207900703
-  brandStrength: 0.2886070846579969
-  rhythmicContrast: 0.2701726513914764
+  saturation: 0.2729793128091842
+  brandStrength: 0.2772862312849611
+  rhythmicContrast: 0.7222745399922132
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  lightness: 0.6327629301231354
-layout_spectrum: 1
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  lightness: 0.6278557230252773
+layout_spectrum: 0.9483614179771394
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c524feb9-4520-45f1-91a0-3308d1d368b2.jpg
 name: University College Dublin One Health Society
