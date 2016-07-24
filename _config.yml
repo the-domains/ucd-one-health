@@ -25,6 +25,10 @@ navigation:
     url: 'https://www.facebook.com/UCDOneHealthSociety/'
     name: Facebook
     type: external
+  - id: 'https://twitter.com/ucdonehealth'
+    url: 'https://twitter.com/ucdonehealth'
+    name: Twitter
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/18069bb0-b4e1-4112-b23e-5b4aa2be60a5.jpg
 collections:
