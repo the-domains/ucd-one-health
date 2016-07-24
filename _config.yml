@@ -11,6 +11,8 @@ color:
     - '#002F2F'
   lightness: 0.6327629301231354
 layout_spectrum: 1
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c524feb9-4520-45f1-91a0-3308d1d368b2.jpg
 name: University College Dublin One Health Society
 navigation:
   - id: 04934548-b478-44f9-bfc7-7ae61e03e030
@@ -30,7 +32,7 @@ navigation:
     name: Twitter
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/18069bb0-b4e1-4112-b23e-5b4aa2be60a5.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/47b57d2f-65cc-4891-b587-659327703bab.jpg
 collections:
   - index:
       path: /
