@@ -21,6 +21,10 @@ navigation:
     url: 2016-05-16-about-us.html
     name: About Us
     type: content
+  - id: 'https://www.facebook.com/UCDOneHealthSociety/'
+    url: 'https://www.facebook.com/UCDOneHealthSociety/'
+    name: Facebook
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/18069bb0-b4e1-4112-b23e-5b4aa2be60a5.jpg
 collections:
