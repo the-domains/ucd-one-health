@@ -15,22 +15,21 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c524feb9-4520-45f1-91a0-3308d1d368b2.jpg
 name: University College Dublin One Health Society
 navigation:
-  - id: 04934548-b478-44f9-bfc7-7ae61e03e030
-    url: 2016-05-20-contact-us.html
-    name: Contact Us
+  - name: Contact Us
+    id: 04934548-b478-44f9-bfc7-7ae61e03e030
     type: content
-  - id: 4ab32f9f-44e1-478e-ae1d-dd543361848a
-    url: 2016-05-16-about-us.html
-    name: About Us
+  - name: About Us
+    id: 4ab32f9f-44e1-478e-ae1d-dd543361848a
     type: content
-  - id: 'https://www.facebook.com/UCDOneHealthSociety/'
+  - name: Facebook
     url: 'https://www.facebook.com/UCDOneHealthSociety/'
-    name: Facebook
     type: external
-  - id: 'https://twitter.com/ucdonehealth'
+  - name: Twitter
     url: 'https://twitter.com/ucdonehealth'
-    name: Twitter
     type: external
+  - name: One Health Week 2016
+    id: 295167d1-0a8f-45b0-a328-82595d37f6f9
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/47b57d2f-65cc-4891-b587-659327703bab.jpg
 collections:
