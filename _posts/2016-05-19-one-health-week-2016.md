@@ -1,15 +1,18 @@
 ---
-description: "Our Flagship event of the year, we've done a quick recap of the events we had for One Health Week last year."
-dateModified: '2016-05-28T18:16:52.237Z'
-datePublished: '2016-05-28T18:17:01.563Z'
-title: 'One Health Week 2016!'
+description: >-
+  Our Flagship event of the year, we've done a quick recap of the events we had
+  for One Health Week last year.
+dateModified: '2016-08-09T22:03:03.750Z'
+datePublished: '2016-08-09T22:03:04.973Z'
+title: One Health Week 2016!
 author: []
 sourcePath: _posts/2016-05-19-one-health-week-2016.md
+hasPage: true
+publisher: {}
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: one-health-week-2016/index.html
+_type: Blurb
 
 ---
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5c872ad78f9419fc8f236c21e6b445ba3ae5a07.jpg" /><h1>One Health Week 2016!</h1><p>Our Flagship event of the year, we've done a quick recap of the events we had for One Health Week last year.</p></article>
